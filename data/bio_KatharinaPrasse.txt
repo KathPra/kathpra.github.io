@@ -1,0 +1,4 @@
+Katharina Prasse is a PhD Candidate and Researcher supervised by Prof. Dr.-
+Ing. Margret Keuper at the  University of Mannheim’s Data and Web Science Group. 
+Her research interests focus on the combination of foundation models with traditional methods, 
+and real-life data such as climate change discourse. Moreover, she is interested in XAI.

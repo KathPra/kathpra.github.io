@@ -1,1 +1,1 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+This is the source code to Katharina Prasses's public academic website: kathpra.github.io. I have used the template from Jon Barron publicly available at https://jonbarron.info/.
